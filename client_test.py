@@ -28,6 +28,3 @@ class ClientTest(unittest.TestCase):
 if __name__ == '__main__':
     unittest.main()
 
-# quotes[0] = {'top_ask': {'price': 121.2, 'size': 36}, 'timestamp': '2019-02-11 22:06:30.572453', 'top_bid': {'price': 120.48, 'size': 109}, 'id': '0.109974697771', 'stock': 'ABC'}
-# quotes[0]['top_ask'] = {'price': 121.2, 'size': 36}
-# quotes[0]['top_ask']['price'] = 121.2
